@@ -98,23 +98,23 @@ class Program
 				Console.WriteLine("Excellent");
 				break;
 			case "B":
-					Console.WriteLine("Very Good");
-					break;
+				Console.WriteLine("Very Good");
+				break;
 			case "C":
-					Console.WriteLine("Good");
-					break;
+				Console.WriteLine("Good");
+				break;
 			case "D":
-					Console.WriteLine("Poor");
-					break;
+				Console.WriteLine("Poor");
+				break;
 			case "E":
-					Console.WriteLine("Satisfactory");
-					break;
+				Console.WriteLine("Satisfactory");
+				break;
 			case "F":
-					Console.WriteLine("Fail");
-					break;
+				Console.WriteLine("Fail");
+				break;
 			default:
-					Console.WriteLine("Invalid letter grade entered");
-					break;
+				Console.WriteLine("Invalid letter grade entered");
+				break;
 		}
 	}
 }
